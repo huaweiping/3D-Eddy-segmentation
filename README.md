@@ -15,3 +15,4 @@ Manual:
     b) "fineTuneLabel" to "label"
 5. See if you need to mount any drive or something
 6. It should work now
+7. Each epoch should give some output image to evaluate the result
