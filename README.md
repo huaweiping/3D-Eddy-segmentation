@@ -13,4 +13,5 @@ Manual:
 4. change the name of sub-folder
     a) "fineTuneData" to "data"
     b) "fineTuneLabel" to "label"
-5. It should work now
+5. See if you need to mount any drive or something
+6. It should work now
